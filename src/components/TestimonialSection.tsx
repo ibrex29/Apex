@@ -15,15 +15,15 @@ const testimonials: Testimonial[] = [
     feedback:
       "Apex has been instrumental in our software development process. It provides comprehensive solutions tailored to our needs, allowing us to deliver high-quality software efficiently.",
     clientName: "Micheal Gough",
-    clientPosition: "CEO at Google",
+    clientPosition: "Kebbi State",
     clientImage:
       "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png",
   },
   {
     feedback:
       "With Apex, we can rest assured that our organization's cybersecurity is in safe hands. Its advanced security features and robust solutions help us protect our data and systems effectively.",
-    clientName: "Jane Doe",
-    clientPosition: "CTO at Microsoft",
+    clientName: "Gerrad Temi",
+    clientPosition: "CTO at Spendo",
     clientImage:
       "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png",
   },
@@ -31,7 +31,7 @@ const testimonials: Testimonial[] = [
     feedback:
       "Apex is more than just a software platform; it's a comprehensive solution for all our software and cybersecurity needs. Its versatility and reliability make it indispensable for our organization.",
     clientName: "John Smith",
-    clientPosition: "Lead Developer at Amazon",
+    clientPosition: "Lead Developer at Flowbite",
     clientImage:
       "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png",
   },
